@@ -52,7 +52,7 @@ Regular expressions can have flags that affect the search. For this specific reg
 
 ## Author
 
-Parankush Somraj is SAP Analyst working for Financial Data provider company in Manahattan, NY and also currently enrolled in Rutgers Coding Bootcamp in pursuit of become a full stack software developer
+Parankush Somraj is SAP Analyst working for financial data provider company in Manahattan, NY and also currently enrolled in Rutgers Coding Bootcamp in pursuit to become a full stack software developer
 
 Fun Facts:
 - I enjoy running outdoors in the winter - Checkout contact section below about my running profile
